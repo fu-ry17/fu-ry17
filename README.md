@@ -1,10 +1,7 @@
-# 👋 Hi, I'm Brian
+# 👋 Hi, I'm Brian Yewa
 
 **Software Engineer | Backend & Full-Stack Developer**  
-📍 Nairobi, Kenya | ✉️ yewabrian17@gmail.com  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-yewa-197b0b295/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Fu-ry17)
+📍 Nairobi, Kenya  
 
 ---
 
@@ -16,9 +13,14 @@
 
 ---
 
+## 📊 GitHub Stats
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fu-ry17&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fu-ry17&layout=compact&theme=radical)  
+
+---
+
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/brian-yewa-197b0b295/)  
-- [GitHub](https://github.com/Fu-ry17)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/brian-yewa-197b0b295/) 
 - ✉️ **yewabrian17@gmail.com**
 
 ---
