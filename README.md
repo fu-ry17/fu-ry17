@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Brian Yewa
-
+# 👋 Hi, I'm Brian
 **Software Engineer | Backend & Full-Stack Developer**  
 📍 Nairobi, Kenya  
 
